@@ -1,6 +1,6 @@
+package Others.APILearn;
 
-
-public class trying implements first  {
+public class trying implements first {
     @Override
     public String print() {
         String out = "Hello";
