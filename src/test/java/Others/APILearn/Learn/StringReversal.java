@@ -1,4 +1,4 @@
-package Learn;
+package Others.APILearn.Learn;
 
 public class StringReversal {
     public static void main(String [] Args){

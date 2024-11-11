@@ -1,4 +1,4 @@
-package APILearn;
+package Others.APILearn;
 
 import io.restassured.RestAssured;
 import io.restassured.response.Response;

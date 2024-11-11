@@ -1,4 +1,4 @@
-package StringReversal;
+package Others.APILearn.StringReversal;
 
 import java.util.ArrayList;
 import java.util.*;

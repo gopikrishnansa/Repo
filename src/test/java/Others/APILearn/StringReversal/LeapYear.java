@@ -1,4 +1,4 @@
-package StringReversal;
+package Others.APILearn.StringReversal;
 import org.testng.annotations.Test;
 public class LeapYear {
     public static void main(String[] Args){
