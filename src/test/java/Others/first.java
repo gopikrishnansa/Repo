@@ -1,4 +1,4 @@
-package Others.APILearn;
+package Others;
 
 public interface first {
     public String print();

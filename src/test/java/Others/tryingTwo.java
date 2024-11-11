@@ -1,4 +1,4 @@
-package Others.APILearn;
+package Others;
 
 public class tryingTwo {
     public static void main(String[] args) {

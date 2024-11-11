@@ -1,4 +1,4 @@
-package Others.APILearn.StaticStudy;
+package Others.StaticStudy;
 
 public class Config {
     public static final String BASE_URL = "https://example.com";

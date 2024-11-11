@@ -1,4 +1,4 @@
-package Others.APILearn;
+package Others;
 
 public class trying implements first {
     @Override

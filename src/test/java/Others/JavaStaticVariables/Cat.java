@@ -1,4 +1,4 @@
-package Others.APILearn.JavaStaticVariables;
+package Others.JavaStaticVariables;
 
 public class Cat {
     private static  int catCount = 0;

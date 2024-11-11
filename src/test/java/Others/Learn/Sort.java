@@ -1,4 +1,4 @@
-package Others.APILearn.Learn;
+package Others.Learn;
 import java.util.*;
 public class Sort {
     public static void main(String[] args) {

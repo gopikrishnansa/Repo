@@ -5,12 +5,12 @@
         <parameter name="UserName" value="Gopi" />
         <parameter name="Password" value="Passwoord" />
         <classes>
-            <class name="Others.APILearn.SeleniumLearn.TestNGLearn"/>
+            <class name="Others.SeleniumLearn.TestNGLearn"/>
         </classes>
     </test>
     <test name="YourTestTwo">
         <classes>
-            <class name="Others.APILearn.SeleniumLearn.TestNGLearn2"/>
+            <class name="Others.SeleniumLearn.TestNGLearn2"/>
         </classes>
     </test>
 </suite>

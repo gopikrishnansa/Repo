@@ -1,4 +1,4 @@
-package Others.APILearn.StaticStudy;
+package Others.StaticStudy;
 
 public class Page1 {
     public static void main(String[] Args){

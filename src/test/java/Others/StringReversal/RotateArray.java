@@ -1,4 +1,4 @@
-package Others.APILearn.StringReversal;
+package Others.StringReversal;
 
 import java.util.ArrayList;
 import java.util.LinkedHashMap;

@@ -1,4 +1,4 @@
-package Others.APILearn.JavaStaticVariables;
+package Others.JavaStaticVariables;
 
 public class Practise {
 
