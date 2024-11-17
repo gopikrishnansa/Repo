@@ -14,7 +14,6 @@ public class SortBubble {
                 }
             }
 
-
         }
         System.out.println(Arrays.toString(inputArray));
     }
