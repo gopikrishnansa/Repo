@@ -1,6 +1,6 @@
 package Others.Polymorphism;
 
-public class Main {
+public class Poly {
     class Vehicle {
         public Vehicle() {
             System.out.println("Vehicle is created");
@@ -35,8 +35,8 @@ public class Main {
         }
     }
 
-    public class Main {
-        public static void main(String[] args) {
+    public class Poly2 {
+        public void main(String[] args) {
             Vehicle v1 = new Vehicle();
             Vehicle v2 = new Car();
             v1.start();             // 1

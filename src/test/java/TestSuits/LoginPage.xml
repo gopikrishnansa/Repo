@@ -2,6 +2,8 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="LoginPage"  >
     <test name="LoginPageVerification">
+        <parameter name="browser" value="Chrome"/>
+        <parameter name="url" value="http://example.com"/>
         <classes>
             <class name="TestCases.LoginPageVerification"/>
         </classes>
