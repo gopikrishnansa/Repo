@@ -15,7 +15,7 @@ public class LoginPageVerification {
     @BeforeMethod
     public void setup(){
         // Initialize WebDriver once before each test
-        driver = BaseTest.setup(driver);  // BaseTest now returns the driver instance
+        driver = BaseTest.setup();  // BaseTest now returns the driver instance
     }
 
     @Test
